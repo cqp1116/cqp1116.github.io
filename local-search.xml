@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>苹果电脑配置javacc</title>
+    <link href="/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/"/>
+    <url>/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/</url>
+    
+    <content type="html"><![CDATA[<h5 id="java插件下载"><a href="#java插件下载" class="headerlink" title="java插件下载"></a>java插件下载</h5><blockquote><p>官网地址：</p><p><a href="https://javacc.github.io/javacc/#download">https://javacc.github.io/javacc/#download</a></p></blockquote><p>下载压缩包</p><p><img src="/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/image-20230128150733469.png" alt="image-20230128150733469"></p><p>下载执行文件</p><p><img src="/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/image-20230128150752050.png" alt="image-20230128150752050"></p><p>将下载的压缩包放到磁盘位置并创建目录target，将下载的执行文件重新命名为javacc.jar放到target目录下</p><p><img src="/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/image-20230128150841013.png" alt="image-20230128150841013"></p><p>&#x3D;&#x3D;原因如下&#x3D;&#x3D;</p><p><img src="/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/image-20230128150944512.png" alt="image-20230128150944512"></p><p>配置环境变量，并执行source .bash_profile</p><p><img src="/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/image-20230128151031384.png" alt="image-20230128151031384"></p><p>验证</p><p><img src="/2023/02/01/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AEjavacc/image-20230128151102146.png" alt="image-20230128151102146"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>java</tag>
+      
+      <tag>电脑</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>为什么用了索引还是慢</title>
     <link href="/2022/11/08/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E4%BA%86%E7%B4%A2%E5%BC%95%E8%BF%98%E6%98%AF%E6%85%A2/"/>
     <url>/2022/11/08/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E4%BA%86%E7%B4%A2%E5%BC%95%E8%BF%98%E6%98%AF%E6%85%A2/</url>
