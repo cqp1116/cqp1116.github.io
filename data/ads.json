@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ad-1",
+    "title": "CRM Lite 新版本",
+    "productId": "crm-lite",
+    "placement": "home-hero",
+    "image": "images/ads/crm-ad.svg",
+    "link": "#/products/crm-lite",
+    "enabled": true,
+    "startDate": "2026-09-01",
+    "endDate": "2026-12-31"
+  }
+]

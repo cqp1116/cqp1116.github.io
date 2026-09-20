@@ -1,0 +1,29 @@
+[
+  {
+    "id": "u-acme",
+    "name": "Acme 客户",
+    "company": "Acme",
+    "contact": "业务负责人",
+    "phone": "",
+    "email": "",
+    "status": "active",
+    "productIds": [
+      "crm-lite",
+      "field-app"
+    ],
+    "note": "示例客户，可直接删除。"
+  },
+  {
+    "id": "u-northwind",
+    "name": "Northwind 客户",
+    "company": "Northwind",
+    "contact": "产品负责人",
+    "phone": "",
+    "email": "",
+    "status": "trial",
+    "productIds": [
+      "crm-lite"
+    ],
+    "note": "Beta 客户。"
+  }
+]

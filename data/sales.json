@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sale-1",
+    "date": "2026-09-03",
+    "productId": "crm-lite",
+    "customer": "Acme",
+    "quantity": 1,
+    "amount": 12800,
+    "status": "paid",
+    "note": "年度授权"
+  },
+  {
+    "id": "sale-2",
+    "date": "2026-09-11",
+    "productId": "field-app",
+    "customer": "Northwind",
+    "quantity": 12,
+    "amount": 9600,
+    "status": "pending",
+    "note": "设备授权"
+  },
+  {
+    "id": "sale-3",
+    "date": "2026-09-16",
+    "productId": "insight-hub",
+    "customer": "Demo Studio",
+    "quantity": 1,
+    "amount": 22000,
+    "status": "paid",
+    "note": "项目交付"
+  }
+]

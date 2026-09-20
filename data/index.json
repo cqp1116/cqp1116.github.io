@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "dataVersion": "2026.09.19.1",
+  "publishedAt": "2026-09-19T08:41:08.326Z",
+  "collections": {
+    "products": "products.json",
+    "users": "users.json",
+    "ads": "ads.json",
+    "sales": "sales.json",
+    "images": "images.json"
+  }
+}

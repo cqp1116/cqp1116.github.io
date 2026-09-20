@@ -1,0 +1,30 @@
+[
+  {
+    "id": "img-product-crm",
+    "name": "CRM Product Cover",
+    "category": "product",
+    "url": "images/products/crm.svg",
+    "alt": "CRM Lite"
+  },
+  {
+    "id": "img-product-field",
+    "name": "Field App Cover",
+    "category": "product",
+    "url": "images/products/field.svg",
+    "alt": "Field App"
+  },
+  {
+    "id": "img-product-insight",
+    "name": "Insight Hub Cover",
+    "category": "product",
+    "url": "images/products/insight.svg",
+    "alt": "Insight Hub"
+  },
+  {
+    "id": "img-ad-crm",
+    "name": "CRM Ad",
+    "category": "advertisement",
+    "url": "images/ads/crm-ad.svg",
+    "alt": "CRM advertisement"
+  }
+]
